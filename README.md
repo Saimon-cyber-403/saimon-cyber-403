@@ -6,11 +6,6 @@ Programmer | Content Creator | Learner
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="SaiMon"/> </p>
 
-- 🔭 I’m currently working on **PYTHON **
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
