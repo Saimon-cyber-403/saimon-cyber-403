@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://github.com/SaiMun-cyber-403/SaiMun-cyber-403/blob/main/Wave.gif" height="55px" width="55px">, I'm MD SAIMUN</h1>
+<h1 align="center">Hi <img src="https://github.com/SaiMon-cyber-403/SaiMon-cyber-403/blob/main/Wave.gif" height="55px" width="55px">, I'm MD SaiMon</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
 
 ?></h3>
-<p align="center"> <img src="dev-working.gif" alt="Saimun"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="SaiMon"/> </p>
 
 - 🔭 I’m currently working on **PYTHON **
 
@@ -43,10 +43,10 @@ Programmer | Content Creator | Learner
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=saimun-cyber-403.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=saimon-cyber-403.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![SaiMun's github activity graph](https://activity-graph.herokuapp.com/graph?username=saiMun-cyber-403&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/SaiMon-cyber-403/github-readme-activity-graph)
+[![SaiMon's github activity graph](https://activity-graph.herokuapp.com/graph?username=saiMon-cyber-403&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/SaiMon-cyber-403/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,5 +57,5 @@ Programmer | Content Creator | Learner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaiMon-cyber-403&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
 [facebook]: https://facebook.com/saimonk189
-[youtube]: https://www.youtube.com/@saimun.cyber.403
-[telegram]: https://t.me/saimun-cyber-403
+[youtube]: https://www.youtube.com/@SaiMon.cyber.403
+[telegram]: https://t.me/SaiMun-cyber-403
